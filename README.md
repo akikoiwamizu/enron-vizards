@@ -38,10 +38,10 @@ jupyter notebook
     ├── data
     │   ├── raw            <- Data from third party sources in its rawest form.
     │   └── processed      <- The final, cleaned data sets for analysis.
-    ├── viz                <- Collection of visualizations for eda and the frontend.
-    |   ├── altair          
-    |   └── tableau        
-    └── flask-app         <- Source code directory for the frontend.
+    ├── viz                
+    |   ├── altair         <- Collection of altair visualizations and source code.    
+    |   └── tableau        <- Collection of tableau visualizations and source code.    
+    └── flask-app          <- Source code directory for the frontend.
 
 ### License
 [MIT](https://github.com/akikoiwamizu/enron-vizards/blob/main/LICENSE)
