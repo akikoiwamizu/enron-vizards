@@ -1,0 +1,21 @@
+index,Name,Sent,Received,Total,is_culprit,Rank
+0,1 - All Enron Worldwide@ENRON,0.0,1546.0,1546.0,False,1
+1,2 - All Enron Houston@ENRON,0.0,1031.0,1031.0,False,2
+2,3 - Louise Kitchen,22.0,991.0,1013.0,False,3
+3,4 - Richard Shapiro,11.0,945.0,956.0,False,4
+4,5 - John Arnold,263.0,629.0,892.0,False,5
+5,6 - Jeff Dasovich,11.0,795.0,806.0,False,6
+6,7 - James D. Steffes,14.0,690.0,704.0,False,7
+7,8 - John Lavorato,69.0,604.0,673.0,False,8
+8,9 - Pete Davis,20.0,632.0,652.0,False,9
+9,10 - Bert Meyers,0.0,633.0,633.0,False,10
+10,11 - Marie Heard,21.0,598.0,619.0,False,11
+11,12 - Houston Outage Report@ENRON,0.0,604.0,604.0,False,12
+12,13 - Chuck Ames,1.0,602.0,603.0,False,13
+13,14 - Kenneth Lay,2.0,597.0,599.0,True,14
+14,15 - Rod Hayslett,10.0,585.0,595.0,False,15
+15,16 - Sara Shackleton,133.0,452.0,585.0,False,16
+16,17 - Phillip K. Allen,3.0,566.0,569.0,False,17
+17,18 - Mike Maggi,32.0,518.0,550.0,False,18
+18,19 - Taylor,7.0,520.0,527.0,False,19
+19,20 - Tracy Geaccone,0.0,526.0,526.0,False,20
